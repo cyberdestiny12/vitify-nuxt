@@ -43,7 +43,7 @@
 
 <br>
 
-### Admin Starter Template
+## Admin Starter Template
 
 - 🪟 Default layout with drawer, header and footer
 
